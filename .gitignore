@@ -1,0 +1,10 @@
+# .gitignore
+# 깃에서 제외할 팔일 지정
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
